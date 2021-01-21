@@ -23,6 +23,9 @@ export default StyleSheet.create({
     marginHorizontal: 20,
     marginVertical: 15
   },
+  name: {
+      color: '#6992da'
+  },
   item: {
       height:50,
       justifyContent: 'center',

@@ -23,16 +23,7 @@ export default StyleSheet.create({
     marginHorizontal: 20,
     marginVertical: 15
   },
-  item: {
-      height:50,
-      justifyContent: 'center',
-      paddingHorizontal: 20,
-      marginBottom: 6,
-      backgroundColor: '#eefef5'
-  },
-  title: {
-      letterSpacing: 0.5,
-      fontWeight: '500',
-      color: '#404040'
+  name: {
+      color: '#6992da'
   }
 })
